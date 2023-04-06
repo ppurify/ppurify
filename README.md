@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/C Sharp-EDBABA?style=for-the-badge&logo=C Sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-A3E6D4?style=for-the-badge&logo=Unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-967BDC?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge=VSCode&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/C Sharp-EDBABA?style=for-the-badge=C Sharp&logo=C Sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-A3E6D4?style=for-the-badge=Unity&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-967BDC?style=for-the-badge=Python&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge=Visual Studio Code&logo=Visual Studio Code&logoColor=white">
   
 </div>
 
