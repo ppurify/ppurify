@@ -1,7 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://img.shields.io/badge/C Sharp-EDBABA?style=for-the-badge&logo=C Sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-A3E6D4?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-967BDC?style=for-the-badge&logo=Python&logoColor=white">
+</div>
 
+ 
+  
 <!--
 **ppurify/ppurify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://img.shields.io/badge/C Sharp-EDBABA?style=flat&logo=C Sharp&logoColor=white"/>
+
 
 Here are some ideas to get you started:
 
