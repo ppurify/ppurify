@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Numpy-C4F5E4?style=for-the-badge=Numpy&logo=Numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-D8BFD8?style=for-the-badge=Pandas&logo=Pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Pixyz-EFAFB8?style=for-the-badge=Pixyz&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-9399F0?style=for-the-badge=Blender&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Notion-515D69?style=for-the-badge=Notion&logo=Notion&logoColor=white">
