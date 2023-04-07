@@ -34,7 +34,7 @@
 
   ## SNS 
   <a href="mailto:qpqp8558@gmail.com"><img src="https://img.shields.io/badge/Gmail-F4D1A4?style=for-the-badge=Gmail&logo=Gmail&logoColor=white&link=mailto:qpqp8558@gmail.com"></a>
-  <a href="https://www.notion.so/ppurify/About-Me-8776741988a54281a48998f99c41affc?pvs=4"><img src="https://img.shields.io/badge/Portfolio-ECD669?style=for-the-badge=Notion&logo=Notion&logoColor=white&link=https://www.notion.so/ppurify/About-Me-8776741988a54281a48998f99c41affc?pvs=4"></a>
+  <a href="https://ppurify.notion.site/About-Me-8776741988a54281a48998f99c41affc"><img src="https://img.shields.io/badge/Portfolio-ECD669?style=for-the-badge=Notion&logo=Notion&logoColor=white&link=https://www.notion.so/ppurify/About-Me-8776741988a54281a48998f99c41affc?pvs=4"></a>
 
 </div>
 
