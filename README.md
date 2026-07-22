@@ -3,7 +3,6 @@
   <br>
   <br>
 
-  ## ⭐ Hi, I'm Jeonghwa ⭐ 
   <img src="https://img.shields.io/badge/Google-ORTools-F8EBF6?style=for-the-badge=Google-ORTools&logoColor=white"> 
   <img src="https://img.shields.io/badge/Simulation-FFDB7B?style=for-the-badge=Simulation&logoColor=white">
   <img src="https://img.shields.io/badge/Optimization-FFE7B4?style=for-the-badge=Optimization&logoColor=white">
